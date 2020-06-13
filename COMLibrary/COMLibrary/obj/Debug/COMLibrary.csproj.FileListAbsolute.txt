@@ -1,0 +1,6 @@
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Debug\COMLibrary.dll
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Debug\COMLibrary.pdb
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Debug\Newtonsoft.Json.dll
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Debug\Newtonsoft.Json.xml
+E:\Demo\DemoDll\COMLibrary\COMLibrary\obj\Debug\COMLibrary.dll
+E:\Demo\DemoDll\COMLibrary\COMLibrary\obj\Debug\COMLibrary.pdb

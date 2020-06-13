@@ -1,0 +1,7 @@
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Release\COMLibrary.dll
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Release\COMLibrary.pdb
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Release\Newtonsoft.Json.dll
+E:\Demo\DemoDll\COMLibrary\COMLibrary\bin\Release\Newtonsoft.Json.xml
+E:\Demo\DemoDll\COMLibrary\COMLibrary\obj\Release\COMLibrary.dll
+E:\Demo\DemoDll\COMLibrary\COMLibrary\obj\Release\COMLibrary.pdb
+E:\Demo\DemoDll\COMLibrary\COMLibrary\obj\Release\COMLibrary.csprojResolveAssemblyReference.cache

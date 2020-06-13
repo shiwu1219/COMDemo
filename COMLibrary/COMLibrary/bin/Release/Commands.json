@@ -1,0 +1,15 @@
+{
+    "Commands": [
+        {
+            "CommandsName": "SayHello",
+            "CommandsOperation": [
+                {
+                    /*询问下位机是否空闲*/
+                    "OperationName": "ReadyOperation",
+                    "Value": "Hello?",
+                    "ResultValue1": "OK!"
+                }
+            ]
+        }
+    ]
+}
